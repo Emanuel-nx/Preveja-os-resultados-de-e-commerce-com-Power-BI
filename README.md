@@ -1,4 +1,4 @@
-# Preveja-os-resultados-de-e-commerce-com-Power-BI
+# Preveja os resultados de e-commerce com Power BI
 
 Construir um modelo de regressão linear capaz de prever os resultados de faturamento de um e-commerce.
 Construir um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar seus resultados.
